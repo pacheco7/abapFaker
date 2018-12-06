@@ -17,7 +17,7 @@ Design inspired by https://github.com/joke2k/faker.
 For more details, see the `extended docs`_.
 
 Installation
------------
+------------
 This project is supported by `ABAPGit Project`_. Download ZIP file or integrate this project to him. 
 
 Basic Usage
@@ -25,7 +25,7 @@ Basic Usage
 See also demo report `Z_ABAP_FAKER_DEMO`_.
 
 Providers
------------
+---------
 Each of the generator properties (like name, address...) are called "fake". A faker generator has many of them, packaged in "providers".
 
 ::
@@ -36,7 +36,7 @@ Each of the generator properties (like name, address...) are called "fake". A fa
 Check the `extended docs`_ for a list of `providers`_.
 
 Localization
------------
+------------
 zcl_faker's class constructor can take a locale as an argument, to return localized data. If no localized provider is found, the constructor falls back to the default en_US locale.
 
 ::
@@ -55,10 +55,10 @@ Included localized providers:
 
 -  `de\_DE <https://abapfaker.readthedocs.io/en/latest/locales/de_DE.html>`__ - German
 -  `en\_US <https://abapfaker.readthedocs.io/en/latest/locales/en_US.html>`__ - English (United States)
--  `pt\_BR <https://abapfaker.readthedocs.io/en/latest/locales/t_BR.html>`__ - Portuguese (Brazil)
+-  `pt\_BR <https://abapfaker.readthedocs.io/en/latest/locales/pt_BR.html>`__ - Portuguese (Brazil)
 
 License
------------
+-------
 abapFaker is released under the MIT License. See the bundled `LICENSE`_ file for details.
 
 .. _extended docs: https://abapfaker.readthedocs.io/en/latest/

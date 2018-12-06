@@ -13,9 +13,10 @@ Contents
 
 .. toctree::
    :maxdepth: 2
+   :caption: User Documentation
 
-   providers
-   locales
+   providers/index
+   locales/index
 
 Indices and tables
 ==================
