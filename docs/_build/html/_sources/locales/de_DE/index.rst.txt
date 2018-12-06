@@ -3,14 +3,5 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Locales
-=======
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Locales
-   
-   de_DE/index
-   en_US/index
-   pt_BR/index
+de_DE localization
+==================
