@@ -8,19 +8,10 @@ Welcome to abapFaker's documentation!
 
 .. include:: ../README.rst
 
-Contents
---------
-
 .. toctree::
    :maxdepth: 2
+   :hidden:
    :caption: User Documentation
 
    providers/index
    locales/index
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
