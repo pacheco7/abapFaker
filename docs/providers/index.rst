@@ -1,15 +1,6 @@
-.. abapFaker documentation master file, created by
-   sphinx-quickstart on Wed Dec  5 12:28:54 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Providers
 =========
 
-   * Teste 1
-   * Teste 2
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Providers
+-  `de\_DE <https://abapfaker.readthedocs.io/en/latest/locales/de_DE.html>`__ - German
+-  `en\_US <https://abapfaker.readthedocs.io/en/latest/locales/en_US.html>`__ - English (United States)
+-  `pt\_BR <https://abapfaker.readthedocs.io/en/latest/locales/pt_BR.html>`__ - Portuguese (Brazil)
